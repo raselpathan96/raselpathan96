@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raselpathan96
 - 👀 I’m interested in ...to become a Software Engineer  
 - 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rasel.pathan@gmail.com
 
 <!---
